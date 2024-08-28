@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="stop_watch_running">Stop watch running</string>
+</resources>
